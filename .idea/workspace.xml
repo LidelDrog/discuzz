@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="006cf079-c18d-401d-b31e-c6a2bdb2d4b9" name="Default Changelist" comment="" />
+    <list default="true" id="006cf079-c18d-401d-b31e-c6a2bdb2d4b9" name="Default Changelist" comment="test01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh_key.txt.pub" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +162,8 @@
       <workItem from="1619403769574" duration="10578000" />
       <workItem from="1619913028091" duration="5404000" />
       <workItem from="1620098934166" duration="255000" />
-      <workItem from="1620100037700" duration="2000000" />
+      <workItem from="1620100037700" duration="3346000" />
+      <workItem from="1620103592916" duration="2333000" />
     </task>
     <task id="LOCAL-00001" summary="test01">
       <created>1620102116639</created>
@@ -167,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620102116645</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test01">
+      <created>1620102241038</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620102241038</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +190,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
